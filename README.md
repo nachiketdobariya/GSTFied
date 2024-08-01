@@ -65,6 +65,7 @@ Take a look at some of the screenshots from the app: 🖼️
 <div style="display: flex; overflow-x: auto; white-space: nowrap;">
   <img src="screenshot/Screenshot1.png" alt="Screenshot 1" style="width: 272px; height: auto; margin-right: 10px;">
   <img src="screenshot/Screenshot2.png" alt="Screenshot 2" style="width: 272px; height: auto; margin-right: 10px;">
+  <img src="screenshot/Screenshot14.png" alt="Screenshot 14" style="width: 272px; height: auto; margin-right: 10px;">
   <img src="screenshot/Screenshot3.png" alt="Screenshot 3" style="width: 272px; height: auto; margin-right: 10px;">
   <img src="screenshot/Screenshot4.png" alt="Screenshot 4" style="width: 272px; height: auto; margin-right: 10px;">
   <img src="screenshot/Screenshot5.png" alt="Screenshot 5" style="width: 272px; height: auto; margin-right: 10px;">
@@ -76,7 +77,6 @@ Take a look at some of the screenshots from the app: 🖼️
   <img src="screenshot/Screenshot11.png" alt="Screenshot 11" style="width: 272px; height: auto; margin-right: 10px;">
   <img src="screenshot/Screenshot12.png" alt="Screenshot 12" style="width: 272px; height: auto; margin-right: 10px;">
   <img src="screenshot/Screenshot13.png" alt="Screenshot 13" style="width: 272px; height: auto; margin-right: 10px;">
-  <img src="screenshot/Screenshot14.png" alt="Screenshot 14" style="width: 272px; height: auto; margin-right: 10px;">
   <img src="screenshot/Screenshot15.png" alt="Screenshot 15" style="width: 272px; height: auto; margin-right: 10px;">
   <img src="screenshot/Screenshot16.png" alt="Screenshot 16" style="width: 272px; height: auto; margin-right: 10px;">
   <img src="screenshot/Screenshot17.png" alt="Screenshot 17" style="width: 272px; height: auto; margin-right: 10px;">
